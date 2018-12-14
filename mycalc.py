@@ -8,7 +8,7 @@ valid_oper = ["+","-","*","/"]
 def welcome_message():
     print("\n"*20)
     print("WELCOME TO OUR CALCULATOR!\n")
-    print("*   *   *   *   *   *   *   *   *   *   *   * \n")
+    print("*   *   *   *   *   *   *   *   *   *   *   *   *\n")
     print("We can add, subtract, multiply or divide any two numbers.\n\n")
     first_number()
 
