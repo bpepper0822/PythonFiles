@@ -58,7 +58,7 @@ def run_comparison():
     # prompt to play again
     play_again()      
 
-# * * execution starts here * *
+# * * execution starts here * * #
 run_comparison()
 
 
