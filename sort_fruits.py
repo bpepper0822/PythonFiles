@@ -9,7 +9,7 @@ new_file =  open("E:/Desktop/UoPeople/IntroProgramming/sorted_fruits.txt", "w+")
 # Reads original file into list 'fruit'. Each line becomes new list item
 fruit = old_file.readlines()
 
-# Copies all lines that aren't empty to new list 'sort_fruit'
+# Copies all lines that aren't empty to new list 'sort_fruit' for sorting
 for each in fruit:
     if each != "\n":
         sort_fruit.append(each)
